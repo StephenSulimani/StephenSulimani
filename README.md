@@ -1,6 +1,7 @@
 ### 👋
 Hi, I'm Stephen, a fourth-year Computer Science student at the University of Georgia! I am currently interested in learning about Finance, Financial Technology, and Machine Learning.
-I'm looking for software engineering or financial technology internships to explore the industry and develop experience by collaborating on real-world projects.
+I will be graduating in December of 2025 and I'm looking for entry level software engineering or financial technology positions in or around New York and Atlanta.
+Please contact me @ [biz@suli.nyc](mailto:biz@suli.nyc)
 
 <!--
 **StephenSulimani/StephenSulimani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
