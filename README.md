@@ -1,6 +1,6 @@
 ## Hi there, I'm Stephen Sulimani 👋
 
-I am a **Master of Science in Quantitative and Computational Finance (MS-QCF)** candidate at **Georgia Tech**, graduating in May 2027. With a strong foundation in Computer Science and experience in Software Engineering, I build tools at the interse tion fo finance and technology.
+I am a **Master of Science in Quantitative and Computational Finance (MS-QCF)** candidate at **Georgia Tech**, graduating in May 2027. With a strong foundation in Computer Science and experience in Software Engineering, I build tools at the intersection of finance and technology.
 
 ### 🎯 Objective
 I am actively seeking **Quantitative Development** and **Software Engineering** internships for **Summer 2026**. I am interested in roles that leverage my experience in API design, machine learning integration, and full-stack development.
