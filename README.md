@@ -5,6 +5,11 @@ I am a **Master of Science in Quantitative and Computational Finance (MS-QCF)** 
 ### 🎯 Objective
 I am actively seeking **Quantitative Development** and **Software Engineering** internships for **Summer 2026**. I am interested in roles that leverage my experience in API design, machine learning integration, and full-stack development.
 
+### 🔎 Research Experience
+#### Research Assistant | University of Georgia
+- **Stock Clustering & Mean Reversion**: Conducted research under **Dr. Tucker Balch** focusing on stock clustering techniques and empirical testing of the mean reversion theory.
+- Applied computational methods to analyze market behaviors and validate statistical arbitrage hypotheses.
+
 ### ⚒️ Technical Toolkit
 - Programming: Python, JavaScript, TypeScript, Java, C#, Go, C, C++
 - Frameworks & Libraries: React, Next.js, Svelte, Node.js, Flask, Pandas, scikit-learn
